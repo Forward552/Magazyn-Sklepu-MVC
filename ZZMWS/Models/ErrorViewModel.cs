@@ -1,4 +1,4 @@
-namespace ZZMWS.Models;
+namespace Rozliczenia.Models;
 
 public class ErrorViewModel
 {

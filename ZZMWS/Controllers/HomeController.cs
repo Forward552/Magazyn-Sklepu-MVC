@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using ZZMWS.Models;
+using Rozliczenia.Models;
 
-namespace ZZMWS.Controllers;
+namespace Rozliczenia.Controllers;
 
 public class HomeController : Controller
 {
